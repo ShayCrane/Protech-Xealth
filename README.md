@@ -54,3 +54,4 @@ Julia Chi, CTO Xealth
 - [OPS 401 Project Guidelines](https://github.com/codefellows/seattle-ops-401d5/blob/main/class-20/project-guidelines.md)
 - [Trello Project Management Page](https://trello.com/b/3hQApNiW/protech-xealth)
 - [Google Drive Project Documentation Folder](https://drive.google.com/drive/folders/10q1iTIIHyK_R2-ltvlMJH7dfzzKp7_BJ?usp=sharing)
+- [Project Whiteboard](https://miro.com/app/board/uXjVPUzvjBI=/)
