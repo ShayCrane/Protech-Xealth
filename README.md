@@ -43,14 +43,14 @@ Sincerely,
 Julia Chi, CTO Xealth
  
 ## Team Signups
-  - Proper IAM:
-  - CIS-compliant Windows Server DC:
-  - SIEM/log aggregation system:
-  - Network traffic monitoring:
-  - DLP controls:
+  - Proper IAM: Shay
+  - CIS-compliant Windows Server DC: Shay
+  - SIEM/log aggregation system: Jon
+  - Network traffic monitoring: Jon
+  - DLP controls: James
   - Deliverables: Ariel
 
 ## Team Project Resources and Deliverables
 - [OPS 401 Project Guidelines](https://github.com/codefellows/seattle-ops-401d5/blob/main/class-20/project-guidelines.md)
-- [Trello Project Management Page](https://trello.com/invite/b/3hQApNiW/ATTI693fdaec4b1002ba98283f9e7ec8c866E23E7E3B/unnamed-mid-project)
+- [Trello Project Management Page](https://trello.com/b/3hQApNiW/protech-xealth)
 - [Google Drive Project Documentation Folder](https://drive.google.com/drive/folders/10q1iTIIHyK_R2-ltvlMJH7dfzzKp7_BJ?usp=sharing)
