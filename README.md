@@ -1,6 +1,6 @@
 # OPS 401d5 Midterm Project Scenario and Guidelines
 
-## Team Members
+## grepTribe Team Members
 - Jonathan Salhus
 - Ariel Doyle
 - Shannon Crane
