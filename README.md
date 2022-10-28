@@ -49,11 +49,8 @@ Julia Chi, CTO Xealth
   - Network traffic monitoring:
   - DLP controls:
   - Deliverables: Ariel
- 
-All of this information can also be found on the [Ops 401 Final Project Guidelines](https://github.com/codefellows/seattle-ops-401d5/blob/main/class-20/project-guidelines.md) page in the class repo. 
 
 ## Team Project Resources
-- [Project Guidelines](https://github.com/codefellows/ops-401-cybersecurity-guide/blob/main/curriculum/class-20/project-guidelines.md)
+- [OPS 401 Project Guidelines](https://github.com/codefellows/ops-401-cybersecurity-guide/blob/main/curriculum/class-20/project-guidelines.md)
 - [Trello Project Management Page](https://trello.com/invite/b/3hQApNiW/ATTI693fdaec4b1002ba98283f9e7ec8c866E23E7E3B/unnamed-mid-project)
 - [Google Drive Project Documentation Folder](https://drive.google.com/drive/folders/10q1iTIIHyK_R2-ltvlMJH7dfzzKp7_BJ?usp=sharing)
-- 
