@@ -55,3 +55,4 @@ Julia Chi, CTO Xealth
 - [Trello Project Management Page](https://trello.com/b/3hQApNiW/protech-xealth)
 - [Google Drive Project Documentation Folder](https://drive.google.com/drive/folders/10q1iTIIHyK_R2-ltvlMJH7dfzzKp7_BJ?usp=sharing)
 - [Project Whiteboard](https://miro.com/app/board/uXjVPUzvjBI=/)
+- [Presentation PowerPoint](https://www.canva.com/design/DAFQvsWJayM/26va8h7KWvNKUZdS6GBQrA/view?utm_content=DAFQvsWJayM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
